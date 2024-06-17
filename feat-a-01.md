@@ -1,2 +1,1 @@
-This in file in feat-a branch
-Change this file b merge on github
+Совсем новый текст и что ты будешь делать теперь?
